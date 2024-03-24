@@ -1,0 +1,10 @@
+.infobox{
+    text-align: center;
+    background-color: aqua;
+}
+
+.cardcontainer{
+    display:flex;
+    justify-content:center;
+    
+}
