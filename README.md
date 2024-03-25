@@ -12,16 +12,16 @@ A sleek and intuitive weather application built with ReactJS. Get real-time weat
 
 # Features
 
-Current Weather: Get up-to-date information about the current weather conditions at any location.
+- Current Weather: Get up-to-date information about the current weather conditions at any location.
 
-Forecast: Plan ahead with a detailed weather forecast for the upcoming days, including temperature, humidity, wind speed, and more.
+- Forecast: Plan ahead with a detailed weather forecast for the upcoming days, including temperature, humidity, and more.
 
-Location-based Data: Access weather data for your current location or search for weather information in any city around the world.
+- Location-based Data: Access weather data for your current location or search for weather information in any city around the world.
 
-Responsive Design: The app is designed to be responsive and user-friendly, ensuring a seamless experience across different devices.
+- Responsive Design: The app is designed to be responsive and user-friendly, ensuring a seamless experience across different devices.
 
 # Tech Stack 
-The app is built with HTML, CSS, and JavaScript, providing an intuitive user interface to access weather data.
+The app is built with Reactjs, providing an intuitive user interface to access weather data.
 
 
 
